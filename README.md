@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sylvanasbeta
-- 👀 I’m interested in SRE, DevOps, Architecture, Kubernetes, Open-Source and GCP
-- 🌱 I’m currently learning Android and 
+- 👀 I’m interested in GCP, SRE, DevOps, architecture, Kubernetes, Open-Source technologies and communities
+- 🌱 I’m currently learning Android and Kubernetes Security
 - 💞️ I’m looking to collaborate on Open-Source projects
 - 📫 I'm a GDE,  Google Developer Expert specialising in Cloud 
 
